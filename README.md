@@ -46,7 +46,7 @@ npm install
 
 ### 3. Run the server
 ```bash
-node index.js
+node server.js
 ```
 
 or:
@@ -55,7 +55,11 @@ or:
 npm start
 ```
 
----
+or even:
+
+```bash
+set PORT=3001 && npm start
+```
 
 ## 🌐 Browser Mode
 
