@@ -1,6 +1,6 @@
 # Untitled Server Panel
 
-Local Minecraft server panel for Windows-style local hosting.
+Local Minecraft server panel for Windows-style local hosting. (Made in Node.JS)
 
 ## Run As A Windows Desktop App
 
