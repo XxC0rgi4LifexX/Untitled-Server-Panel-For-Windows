@@ -35,7 +35,7 @@ UntitledServerPanel/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/Untitled-Server-Panel-For-Windows.git
+git clone https://github.com/XxC0rgi4LifexX/Untitled-Server-Panel-For-Windows.git
 cd Untitled-Server-Panel-For-Windows
 ```
 
