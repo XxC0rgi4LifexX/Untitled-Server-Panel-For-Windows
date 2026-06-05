@@ -55,13 +55,13 @@ or:
 npm start
 ```
 
-or even:
+or even (What this does: Starts the app but in browser):
 
 ```bash
-set PORT=3001 && npm start
+set PORT=3000 && npm start
 ```
 
-## 🌐 Browser Mode
+## 🌐 Browser Mode (If you Executed the last one)
 
 Once running, open:
 
