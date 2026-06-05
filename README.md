@@ -2,6 +2,8 @@
 
 Local Minecraft server panel for Windows-style local hosting. (Made in Node.JS)
 
+Quick Note: Extract the zip folder If you are going to edit the source code!
+
 ## Run As A Windows Desktop App
 
 Install the desktop dependency once:
